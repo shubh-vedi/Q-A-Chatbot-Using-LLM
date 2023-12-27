@@ -1,4 +1,4 @@
-# GitHub Expert Q&A ChatBot with Langchain and OpenAI API
+# Conversational Q&A Chatbot ChatBot with Langchain and OpenAI API
 
 ## Overview
 
